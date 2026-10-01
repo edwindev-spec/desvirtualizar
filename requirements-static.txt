@@ -1,0 +1,2 @@
+# Optional static Vmify transformation
+luaparser==4.2.0

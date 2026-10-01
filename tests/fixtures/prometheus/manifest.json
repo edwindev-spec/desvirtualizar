@@ -1,0 +1,26 @@
+{
+  "reference_repository": "https://github.com/prometheus-lua/Prometheus",
+  "reference_revision": "a4efc5f381c50ae2a111bdbb9272fa3203685be3",
+  "generator_runtime": "LuaJIT 2.1.0-beta3; stock presets targeting Lua 5.1",
+  "seeds": [
+    3,
+    17,
+    42
+  ],
+  "source": "source.lua",
+  "sha256": {
+    "source.lua": "0ba4397498405cdd74ebd316167d68a1801e20a092983f174d3f4bd9aae32b72",
+    "Vmify_3.lua": "dbd94da521cfb79867d824a6d426e2994eb3ccbb1c988ba7dc1aae8260fcd5c1",
+    "Vmify_17.lua": "72406ba926c3ea099ce7fa9da3aa7d85165ca3da6eb95bfaec84a23d39ce1366",
+    "Vmify_42.lua": "6da4e7cf744e97907a2dfe0db2a6549606bad2135a519f14f2d3a2e75b8948b4",
+    "Weak_3.lua": "b2b535c65b93ec8a583cd2e78364971854db71819db9c6d45ad0a7e11fedaa6d",
+    "Weak_17.lua": "9c0f7cb572f6805d1f7e22acb3ae292d39d16d8fa6459da2dc770a94f120fb7e",
+    "Weak_42.lua": "afb284cb3749a6ef8a11d2203b54c698cd8bb25842b5d2a520178db629e2d206",
+    "Medium_3.lua": "c673947bc47d00a1a3888509bb6b1d622bea016b0df1c2b4e1f3e6da83ad553e",
+    "Medium_17.lua": "46a87d3ea3b5e8b7aedf8c69efb2a6ba6e234f7115944dc2952e1962f9359df3",
+    "Medium_42.lua": "225a79a2384a82d6712dfc0b5e641fa6bcb5d11792807f47e6ddcaf35d82489a",
+    "Strong_3.lua": "3db831f24502d0900f2415a17598a74f646fad1e823b972ed9d98d77845e4c7f",
+    "Strong_17.lua": "1a47c9733dd2f865714720cc83bc8fa3c543ef44d166f1b7498393e865880fff",
+    "Strong_42.lua": "ec1da4a9cbc87a0ae1074f65d503792b2d97b82fa8a91d9771abcb31e62e8931"
+  }
+}
