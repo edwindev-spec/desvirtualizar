@@ -1,0 +1,10 @@
+services:
+  - type: worker
+    name: discord-deobf-bot
+    runtime: docker
+    plan: starter
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false
+      - key: DISCORD_OWNER_ID
+        sync: false
